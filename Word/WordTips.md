@@ -10,4 +10,4 @@
   
 3. 快速输入大写数字
 
-  ![快速输入大写数字](https://cloud.githubusercontent.com/assets/11325103/26273072/8d19f452-3d5a-11e7-97c9-ac5f1f816ca0.gif)
+  ![快速输入大写数字](https://cloud.githubusercontent.com/assets/11325103/26273078/b25e8aca-3d5a-11e7-8f54-5b618c4ce531.gif)
